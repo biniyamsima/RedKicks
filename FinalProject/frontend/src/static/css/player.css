@@ -1,0 +1,66 @@
+#perform {
+  font-size: 1.5rem;
+  text-shadow: black;
+}
+
+th {
+  text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+    0px -4px 10px rgba(255,255,255,0.3);
+}
+
+.playerName {
+  text-shadow: 1 2px 7px 5px rgba(0,0,0,0.3), 
+  0px -4px 10px rgba(255,255,255,0.3);
+}
+
+.playerImage {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+
+}
+.position {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+  font-size: 4vw;
+  text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
+  0px -4px 10px rgba(255,255,255,0.3);
+  font-weight: bold;
+}
+
+
+.backButton {
+  width: 20vw;
+  font-size: 1.2rem;
+  font-weight: 700;
+  text-align: center;
+  transition: all .15s;
+  margin-left: 4vw;
+  margin-top: 2vw;
+  box-shadow: lightgray 0 -12px 6px inset;
+  border-radius: 40em;
+  border-style: none;
+}
+
+.backButton:hover {
+  background-color:red;
+  box-shadow: #FF6314 0 -6px 8px inset;
+  transform: scale(1.125);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,44 @@
+main h1 {
+    color: red;
+    font-family: arial;
+    font-weight: bold;
+    letter-spacing: 5px;
+    text-shadow: 0 0 3px black;
+    text-align: center;
+  }
+
+  body  {
+    text-align: center;
+  }
+
+  .button {
+    display: block;
+    margin: 20px 0 0;
+    padding: 10px;
+    background: red;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0 0 15px #22254C;
+    text-align: center;
+    width: 100%;
+  }
+
+  body {
+    width: 100%;
+    min-height: 100vh;
+    display: relative;
+    margin: 0;
+    padding: 0;
+  }
+
+  main {
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+   
+  }
+
+  

@@ -1,0 +1,89 @@
+.instruction {
+    margin-bottom: 2%;
+}
+
+div label {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium;
+    align-items: left;
+    margin: .5%;
+    margin-left: 0%;
+    font-weight: 500;
+    
+    text-align: center;
+    
+}
+div.f{
+    display:block;
+    text-align: center;
+    max-height: min-content;
+}
+
+div.login {
+    float: right;
+    position:absolute;
+    margin: 10px 10px;
+    top:5;
+    right:0;
+    padding: 0%;
+}
+.login {
+    padding: 10px 10px;
+    background-color: rgb(175, 12, 12);
+    color:white;
+    border-color: rgb(175, 12, 12);
+    border-radius:10px;
+}
+.create{
+    padding: 5px 10px;
+    margin: 10px 5px;
+    background-color:rgb(175, 12, 12);
+    border-radius:10px;
+    width:100%;
+    color:white;
+}
+
+header > nav {
+   
+    text-align: center;
+    font-size: 4.5vw;
+    color: red;
+    text-shadow: 0px 15px 5px rgba(0,0,0,0.1),
+                   10px 20px 5px rgba(0,0,0,0.05),
+                   -10px 20px 5px rgba(0,0,0,0.05);
+  
+  }
+
+  div input {
+    height:5%;
+    margin:10px 0;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    border: 2px solid #eee;
+    border-radius:10px;
+    padding:10px;
+  }
+
+
+.image-preview {
+    width: 300px;
+    min-height: 200px;
+    border: 2px solid;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  
+  
+  }
+  
+  .image-preview__default-text {
+    font-size: vw;
+    font-weight: bold;
+  }
+  
+  .image-preview__image {
+    display: none;
+
+  }
