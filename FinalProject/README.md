@@ -66,11 +66,6 @@ Method | Route                 | Description
 `POST` | `/injuries`    | Insert a new injury. 
 `POST` | `/schedule` | Insert a new game into the schedule. 
 
-### Contributions
-Person  | Tasks/Pages/Files Completed
-------- | ---------------------------
-Biniyam | [Insert here]
-Jonah   | [Insert here]
-Godsend | Refactored Database for Image Links (schemas.sql), DAOS, players.js, PopulateInjuries.js, admin.js, APIClient.js, pages that required images.
+
 
 
