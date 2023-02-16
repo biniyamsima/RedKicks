@@ -11,10 +11,10 @@
 - Users authenticate before being able to use the application.
 - New users/coaches can register on the app.
 - New injuries / teams / players / coaches / matchups can be created and interacted with.
+- Players can be removed from roster
 
 ### What Doesn't Work
 - Multer does not currently work for our implementation. In the meantime, we use imgur links.
-- There is no option to remove anything. To do so, you must drop the entire database.
 
 ### List of Pages
 Page Name  | How to Navigate | Offline Functionality
